@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+
+# Copyright https://github.com/ajalt/reprint
+# Licensed under the Apache License, Version 2.0
+
 from __future__ import print_function, division, unicode_literals
 
 import re
